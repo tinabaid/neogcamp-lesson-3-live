@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,400&display=swap" rel="stylesheet");
 
 :root {
-    --primary-color: royalblue; 
+    --primary-color: #B91C1C; 
     --off-white: #E5E7EB ;
 }
 
@@ -78,8 +78,7 @@ hr {
  }
   
  .hero .hero-heading {
-     color: grey;
-    padding-top: 1rem;
+     color:rgb(97, 116, 116);
     text-align: center;
  }
 
@@ -102,7 +101,13 @@ hr {
      color: white;
      border-top-right-radius: 1rem
  }
+ 
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
 
  .footer .link{
      color: white;
+
  }
